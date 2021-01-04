@@ -68,7 +68,12 @@
         {
           "definition": "প্যাকেজ ডিপেন্ডেন্সী সেভ করা",
           "code": "pip freeze > requirements.txt"
+        },
+        {
+          "definition": "প্যাকেজ ডিপেন্ডেন্সী করাফাইল থেকে ইন্সটল করা",
+          "code": "pip install -r requirements.txt"
         }
+        
       ]
     },
     {
